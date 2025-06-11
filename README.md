@@ -95,4 +95,7 @@ Credits
 Remember:
 - Edit FirebaseConfig.cs, and replace serviceAccountKey.json with your database service.json before running.
 - Never share your real Firebase secrets publicly.
+Contact For more information, feel free to reach out:
 
+Contact For more information, feel free to reach out:
+Nguyen Tai Phu (Email: nguyentaiphu980@gmail.com)
