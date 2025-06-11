@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D699D106-A006-4AF3-8049-71782F7E9AB8}|ChatApp.csproj|e:\\uit\\nt106\\doancuoiky\\chatapp (1)\\chatapp\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D699D106-A006-4AF3-8049-71782F7E9AB8}|ChatApp.csproj|solutionrelative:message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D699D106-A006-4AF3-8049-71782F7E9AB8}|ChatApp.csproj|E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D699D106-A006-4AF3-8049-71782F7E9AB8}|ChatApp.csproj|solutionrelative:frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D699D106-A006-4AF3-8049-71782F7E9AB8}|ChatApp.csproj|E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\frmclient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D699D106-A006-4AF3-8049-71782F7E9AB8}|ChatApp.csproj|solutionrelative:frmclient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D699D106-A006-4AF3-8049-71782F7E9AB8}|ChatApp.csproj|E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D699D106-A006-4AF3-8049-71782F7E9AB8}|ChatApp.csproj|solutionrelative:frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D699D106-A006-4AF3-8049-71782F7E9AB8}|ChatApp.csproj|E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\imageviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D699D106-A006-4AF3-8049-71782F7E9AB8}|ChatApp.csproj|solutionrelative:imageviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D699D106-A006-4AF3-8049-71782F7E9AB8}|ChatApp.csproj|E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\imageviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D699D106-A006-4AF3-8049-71782F7E9AB8}|ChatApp.csproj|solutionrelative:imageviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D699D106-A006-4AF3-8049-71782F7E9AB8}|ChatApp.csproj|E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D699D106-A006-4AF3-8049-71782F7E9AB8}|ChatApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:51:46.286Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImageViewer.cs",
+              "DocumentMoniker": "E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\ImageViewer.cs",
+              "RelativeDocumentMoniker": "ImageViewer.cs",
+              "ToolTip": "E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\ImageViewer.cs",
+              "RelativeToolTip": "ImageViewer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:10:06.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImageViewer.cs [Design]",
+              "DocumentMoniker": "E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\ImageViewer.cs",
+              "RelativeDocumentMoniker": "ImageViewer.cs",
+              "ToolTip": "E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\ImageViewer.cs [Design]",
+              "RelativeToolTip": "ImageViewer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:09:51.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmClient.cs",
+              "DocumentMoniker": "E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\frmClient.cs",
+              "RelativeDocumentMoniker": "frmClient.cs",
+              "ToolTip": "E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\frmClient.cs",
+              "RelativeToolTip": "frmClient.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAUwAsBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T12:05:37.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmClient.Designer.cs",
+              "DocumentMoniker": "E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\frmClient.Designer.cs",
+              "RelativeDocumentMoniker": "frmClient.Designer.cs",
+              "ToolTip": "E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\frmClient.Designer.cs",
+              "RelativeToolTip": "frmClient.Designer.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAAMUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:56:37.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmClient.cs [Design]",
+              "DocumentMoniker": "E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\frmClient.cs",
+              "RelativeDocumentMoniker": "frmClient.cs",
+              "ToolTip": "E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\frmClient.cs [Design]",
+              "RelativeToolTip": "frmClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:36:30.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Message.cs",
+              "DocumentMoniker": "E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\Message.cs",
+              "RelativeDocumentMoniker": "Message.cs",
+              "ToolTip": "E:\\UIT\\NT106\\DoAnCuoiKy\\ChatApp (1)\\ChatApp\\Message.cs",
+              "RelativeToolTip": "Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:38:18.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

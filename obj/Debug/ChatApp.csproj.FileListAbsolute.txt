@@ -1,0 +1,370 @@
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\ChatApp.exe.config
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\ChatApp.exe
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\ChatApp.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\FirebaseAdmin.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Api.Gax.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Api.Gax.Rest.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Apis.Auth.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Apis.Core.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Apis.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Newtonsoft.Json.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Buffers.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.CodeDom.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Collections.Immutable.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Memory.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Numerics.Vectors.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.ValueTuple.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\FirebaseAdmin.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Api.Gax.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Api.Gax.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Api.Gax.Rest.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Api.Gax.Rest.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Apis.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Apis.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Apis.Auth.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Apis.Auth.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Apis.Core.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Apis.Core.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Newtonsoft.Json.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Buffers.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.CodeDom.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Collections.Immutable.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Memory.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Numerics.Vectors.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.ValueTuple.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\obj\Debug\ChatApp.csproj.AssemblyReference.cache
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\obj\Debug\ChatApp.csproj.Up2Date
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\obj\Debug\ChatApp.exe
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\obj\Debug\ChatApp.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\grpc_csharp_ext.x86.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\grpc_csharp_ext.x64.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\libgrpc_csharp_ext.x64.so
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\libgrpc_csharp_ext.x64.dylib
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Api.CommonProtos.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Api.Gax.Grpc.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Protobuf.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Grpc.Auth.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Grpc.Core.Api.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Grpc.Core.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Grpc.Net.Client.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Grpc.Net.Common.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Linq.Async.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Net.Http.WinHttpHandler.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Api.CommonProtos.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Api.CommonProtos.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Api.Gax.Grpc.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Api.Gax.Grpc.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Protobuf.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Google.Protobuf.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Grpc.Auth.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Grpc.Auth.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Grpc.Core.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Grpc.Core.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Grpc.Core.Api.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Grpc.Core.Api.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Grpc.Net.Client.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Grpc.Net.Client.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Grpc.Net.Common.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Grpc.Net.Common.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Linq.Async.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Net.Http.WinHttpHandler.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\obj\Debug\frmRegister.resources
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Firebase.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\LiteDB.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Reactive.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Firebase.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\LiteDB.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Reactive.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\obj\Debug\frmLogin.resources
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\obj\Debug\ChatApp.frmDashborad.resources
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\obj\Debug\ChatApp.frmServer.resources
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\obj\Debug\ChatApp.frmClient.resources
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\AForge.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\AForge.Video.DirectShow.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\AForge.Video.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\AForge.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\AForge.Video.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\AForge.Video.DirectShow.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\obj\Debug\ChatApp.frmVideoCall.resources
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Microsoft.Win32.Registry.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\NAudio.Asio.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\NAudio.Core.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\NAudio.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\NAudio.Midi.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\NAudio.Wasapi.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\NAudio.WinForms.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\NAudio.WinMM.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Security.AccessControl.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Security.Principal.Windows.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\Microsoft.Win32.Registry.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\NAudio.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\NAudio.Asio.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\NAudio.Core.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\NAudio.Midi.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\NAudio.Wasapi.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\NAudio.WinForms.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\NAudio.WinMM.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Security.AccessControl.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp\bin\Debug\System.Security.Principal.Windows.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\grpc_csharp_ext.x86.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\grpc_csharp_ext.x64.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\AForge.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\AForge.Video.DirectShow.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\AForge.Video.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Firebase.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\FirebaseAdmin.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Api.CommonProtos.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Api.Gax.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Api.Gax.Rest.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Apis.Auth.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Apis.Core.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Apis.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Protobuf.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Grpc.Auth.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Grpc.Core.Api.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Grpc.Core.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Grpc.Net.Client.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Grpc.Net.Common.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\LiteDB.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Microsoft.Win32.Registry.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\NAudio.Asio.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\NAudio.Core.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\NAudio.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\NAudio.Midi.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\NAudio.Wasapi.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\NAudio.WinForms.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\NAudio.WinMM.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Newtonsoft.Json.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Buffers.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.CodeDom.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Collections.Immutable.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Linq.Async.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Memory.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Numerics.Vectors.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Reactive.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Security.AccessControl.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Security.Principal.Windows.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.ValueTuple.dll
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\AForge.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\AForge.Video.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\AForge.Video.DirectShow.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Firebase.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\FirebaseAdmin.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Api.CommonProtos.pdb
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Api.CommonProtos.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Api.Gax.pdb
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Api.Gax.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Api.Gax.Rest.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Apis.pdb
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Apis.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Apis.Auth.pdb
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Apis.Auth.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Apis.Core.pdb
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Apis.Core.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Protobuf.pdb
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Google.Protobuf.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Grpc.Auth.pdb
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Grpc.Auth.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Grpc.Core.pdb
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Grpc.Core.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Grpc.Core.Api.pdb
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Grpc.Core.Api.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Grpc.Net.Client.pdb
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Grpc.Net.Client.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Grpc.Net.Common.pdb
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Grpc.Net.Common.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\LiteDB.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Microsoft.Win32.Registry.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\NAudio.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\NAudio.Asio.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\NAudio.Core.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\NAudio.Midi.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\NAudio.Wasapi.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\NAudio.WinForms.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\NAudio.WinMM.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\Newtonsoft.Json.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Buffers.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.CodeDom.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Collections.Immutable.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Linq.Async.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Memory.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Numerics.Vectors.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Reactive.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Security.AccessControl.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Security.Principal.Windows.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\bin\Debug\System.ValueTuple.xml
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.AssemblyReference.cache
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\obj\Debug\ChatApp.frmClient.resources
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\obj\Debug\ChatApp.frmDashborad.resources
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\obj\Debug\frmLogin.resources
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\obj\Debug\frmRegister.resources
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\obj\Debug\ChatApp.frmServer.resources
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\obj\Debug\ChatApp.frmVideoCall.resources
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.Up2Date
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+C:\MMT\LTMCB\DoAn\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\grpc_csharp_ext.x86.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\grpc_csharp_ext.x64.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\libgrpc_csharp_ext.x64.so
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\libgrpc_csharp_ext.x64.dylib
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\ChatApp.exe.config
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\ChatApp.exe
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\ChatApp.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\AForge.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\AForge.Video.DirectShow.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\AForge.Video.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Firebase.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\FirebaseAdmin.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Api.CommonProtos.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Api.Gax.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Api.Gax.Grpc.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Api.Gax.Rest.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Apis.Auth.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Apis.Core.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Apis.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Protobuf.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Grpc.Auth.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Grpc.Core.Api.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Grpc.Core.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Grpc.Net.Client.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Grpc.Net.Common.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\LiteDB.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Microsoft.Win32.Registry.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\NAudio.Asio.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\NAudio.Core.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\NAudio.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\NAudio.Midi.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\NAudio.Wasapi.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\NAudio.WinForms.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\NAudio.WinMM.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Newtonsoft.Json.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Buffers.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.CodeDom.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Collections.Immutable.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Linq.Async.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Memory.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Net.Http.WinHttpHandler.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Numerics.Vectors.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Reactive.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Security.AccessControl.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Security.Principal.Windows.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.ValueTuple.dll
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\AForge.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\AForge.Video.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\AForge.Video.DirectShow.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Firebase.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\FirebaseAdmin.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Api.CommonProtos.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Api.CommonProtos.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Api.Gax.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Api.Gax.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Api.Gax.Grpc.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Api.Gax.Grpc.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Api.Gax.Rest.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Api.Gax.Rest.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Apis.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Apis.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Apis.Auth.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Apis.Auth.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Apis.Core.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Apis.Core.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Protobuf.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Google.Protobuf.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Grpc.Auth.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Grpc.Auth.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Grpc.Core.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Grpc.Core.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Grpc.Core.Api.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Grpc.Core.Api.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Grpc.Net.Client.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Grpc.Net.Client.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Grpc.Net.Common.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Grpc.Net.Common.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\LiteDB.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Microsoft.Win32.Registry.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\NAudio.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\NAudio.Asio.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\NAudio.Core.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\NAudio.Midi.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\NAudio.Wasapi.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\NAudio.WinForms.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\NAudio.WinMM.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\Newtonsoft.Json.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Buffers.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.CodeDom.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Collections.Immutable.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Linq.Async.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Memory.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Net.Http.WinHttpHandler.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Numerics.Vectors.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Reactive.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Security.AccessControl.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Security.Principal.Windows.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\bin\Debug\System.ValueTuple.xml
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\obj\Debug\ChatApp.csproj.AssemblyReference.cache
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\obj\Debug\ChatApp.frmClient.resources
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\obj\Debug\ChatApp.frmDashborad.resources
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\obj\Debug\frmLogin.resources
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\obj\Debug\frmRegister.resources
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\obj\Debug\ChatApp.frmServer.resources
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\obj\Debug\ChatApp.frmVideoCall.resources
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\obj\Debug\ChatApp.csproj.Up2Date
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\obj\Debug\ChatApp.exe
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\obj\Debug\ChatApp.pdb
+E:\UIT\NT106\DoAnCuoiKy\ChatApp (1)\ChatApp\obj\Debug\ChatApp.ImageViewer.resources
