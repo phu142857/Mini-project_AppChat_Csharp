@@ -49,6 +49,7 @@ Open the solution in Visual Studio or VS Code.
 Restore NuGet packages (right-click solution > Restore NuGet Packages).
 
 3. Configure Firebase
+   
 ⚠️ Important: Edit your Firebase credentials
 Open FirebaseConfig.cs:
 public static class FirebaseConfig
