@@ -10,19 +10,33 @@ Features
 
 ChatApp-C#/
 │
+
 ├── Program.cs                // Entry point
+
 ├── FirebaseConfig.cs         // Firebase configuration (edit this!)
+
 ├── frmLogin.cs               // Login form
+
 ├── frmRegister.cs            // Registration form
+
 ├── frmDashboard.cs           // Dashboard/main menu
+
 ├── frmClient.cs              // Chat client form
+
 ├── frmServer.cs              // Chat server/room form
+
 ├── frmVideoCall.cs           // Video call form
+
 ├── Message.cs                // Message model
+
 ├── ChatRoom.cs               // Chat room model
+
 ├── MD5Helper.cs              // MD5 hashing helper
+
 ├── ImageViewer.cs            // Image viewer form
+
 ├── serviceAccountKey.json    // (Optional) Firebase Admin SDK key (not used by client)
+
 └── ... (other files/resources)
 
 Getting Started
