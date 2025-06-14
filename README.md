@@ -8,6 +8,8 @@ A simple C# Windows Forms chat application using Firebase Realtime Database for 
 - Video call (experimental)
 - User-friendly UI with drag-to-move windows
 
+# Directory
+
 ChatApp-C#/
 │
 
