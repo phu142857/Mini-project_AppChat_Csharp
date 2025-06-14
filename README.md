@@ -1,7 +1,7 @@
 ChatApp-C#
 A simple C# Windows Forms chat application using Firebase Realtime Database for real-time messaging, image sharing, and video call features.
 
-Features
+# Features
 - User registration and login (with MD5 password hashing)
 - Real-time chat rooms (create/join)
 - Image sharing in chat
@@ -39,7 +39,7 @@ ChatApp-C#/
 
 └── ... (other files/resources)
 
-Getting Started
+# Getting Started
 1. Clone the repository
 git clone https://github.com/yourusername/ChatApp-CSharp.git
 cd ChatApp-CSharp
@@ -73,29 +73,29 @@ If you use it, keep it private and never commit it to public repositories.
 4. Run the Application
 - Press F5 or click Start in Visual Studio/VS Code.
 
-Usage
+# Usage
 - Register a new user.
 - Login with your credentials.
 - Create or join a chat room.
 - Send messages or images.
 - Start a video call (experimental).
 
-Notes
+# Notes
 - All sensitive configuration is in FirebaseConfig.cs.
 - Always keep your AuthToken secret.
 - The app uses MD5 for password hashing (for demo purposes).
 - For production, use a stronger hash (e.g., bcrypt).
 - Video call is basic and for demonstration only.
 
-Credits
+# Credits
 - Firebase Realtime Database
 - NAudio (audio)
 - AForge.NET (video)
 
-Remember:
+# Remember:
 - Edit FirebaseConfig.cs, and replace serviceAccountKey.json with your database service.json before running.
 - Never share your real Firebase secrets publicly.
-Contact For more information, feel free to reach out:
 
+# Contact
 Contact For more information, feel free to reach out:
 Nguyen Tai Phu (Email: nguyentaiphu980@gmail.com)
